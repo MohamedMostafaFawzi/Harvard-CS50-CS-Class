@@ -52,7 +52,6 @@ This is CS50 CS Class, Harvard University's introduction to the intellectual ent
 <br>
 
 - [x] [Week 08: Information](https://cs50.harvard.edu/x/2020/weeks/8/)           
-<br>
 
 ## Certificate
 ![image](./CS50x%20Certificate/CS50x.png)

@@ -1,0 +1,4 @@
+Get the height from the user
+If the height is < 1 or > 8 or not an int, go back to step one
+Iterate from 1 through the height int
+On iteration i, print i hashes and then a newline

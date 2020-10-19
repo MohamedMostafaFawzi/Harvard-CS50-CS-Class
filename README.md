@@ -36,7 +36,7 @@ This is CS50 CS Class, Harvard University's introduction to the intellectual ent
 
 - [x] [Week 08] (https://cs50.harvard.edu/x/2020/weeks/8/)           
 
-## Progress
+## Certificate
 ![image](./CS50x%Certificate/CS50x.png)
 
 ##
